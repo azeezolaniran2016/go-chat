@@ -1,0 +1,79 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "C0AsOR8tLzWrfwWynYx3XsTLFss=",
+			"path": "github.com/0xAX/notificator",
+			"revision": "88d57ee9043ba88d6a62e437fa15dda1ca0d2b59",
+			"revisionTime": "2017-10-22T18:20:52Z"
+		},
+		{
+			"checksumSHA1": "rf4401a4BPVpHkdJ1Dfzx3onamo=",
+			"path": "github.com/codegangsta/envy/lib",
+			"revision": "4b78388c8ce4fa412440ca4eaa654e2fdd752e49",
+			"revisionTime": "2014-12-16T19:22:14Z"
+		},
+		{
+			"checksumSHA1": "X6rQq6vJpHhRHAGPTKqSMcTH46U=",
+			"path": "github.com/codegangsta/gin",
+			"revision": "cafe2ce98974a3dcca6b92ce393a91a0b58b8133",
+			"revisionTime": "2017-10-26T14:30:24Z"
+		},
+		{
+			"checksumSHA1": "VrLJmDW9jO+LNuakRWABzG8vxUQ=",
+			"path": "github.com/codegangsta/gin/lib",
+			"revision": "cafe2ce98974a3dcca6b92ce393a91a0b58b8133",
+			"revisionTime": "2017-10-26T14:30:24Z"
+		},
+		{
+			"checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "Aw8z8w/d+EFt8XCUYPjzSe0bPrU=",
+			"path": "github.com/gorilla/mux",
+			"revision": "cb4698366aa625048f3b815af6a0dea8aef9280a",
+			"revisionTime": "2018-06-05T21:15:56Z"
+		},
+		{
+			"checksumSHA1": "jWJJlpvg/cqbClaKqZoAnNP6HFc=",
+			"path": "github.com/mattn/go-shellwords",
+			"revision": "f8471b0a71ded0ab910825ee2cf230f25de000f1",
+			"revisionTime": "2018-06-05T04:17:37Z"
+		},
+		{
+			"checksumSHA1": "93lbwRfMlPivHJ9VF3d/jkpD+Ko=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "e54a77765aca7bbdd8e56c1c54f60579968b2dc9",
+			"revisionTime": "2018-07-02T05:55:18Z"
+		},
+		{
+			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "a49355c7e3f8fe157a85be2f77e6e269a0f89602",
+			"revisionTime": "2018-06-20T09:14:27Z"
+		},
+		{
+			"checksumSHA1": "V/UdNDcjpscRWgVPbJTQamlYdh0=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "ce36f3865eeb42541ce3f87f32f8462c5687befa",
+			"revisionTime": "2018-07-05T15:01:54Z"
+		},
+		{
+			"checksumSHA1": "OnMg/E0jAbpbS8yFOIz8KcUHXWY=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "ce36f3865eeb42541ce3f87f32f8462c5687befa",
+			"revisionTime": "2018-07-05T15:01:54Z"
+		},
+		{
+			"checksumSHA1": "Yx1MU40fyGe7hhqW9+dkv8kXa60=",
+			"path": "gopkg.in/urfave/cli.v1",
+			"revision": "cfb38830724cc34fedffe9a2a29fb54fa9169cd1",
+			"revisionTime": "2017-08-11T01:42:03Z"
+		}
+	],
+	"rootPath": "github.com/azeezolaniran2016/go-chat"
+}
