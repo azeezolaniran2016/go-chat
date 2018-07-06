@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# sensitive environment variable
+/env/prod.env
+
+# Binaries
+gin-bin
