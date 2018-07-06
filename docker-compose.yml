@@ -1,0 +1,18 @@
+version: "3"
+services:
+  go-chat:
+    build: .
+    container_name: go-chat
+    ports:
+      - "3001:3000" # expose gin port
+      - "8080:80" # expose server port
+    volumes:
+      - .:/go/src/github.com/azeezolaniran2016/go-chat
+    env_file:
+      ./env/loc.env
+  mongo:
+    container_name: mongo
+    image: mongo
+    ports:
+      - "27017:27017"
+
